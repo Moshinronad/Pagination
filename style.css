@@ -1,0 +1,7 @@
+.btn{
+    border-color: rgba(128, 128, 128, 0.308);
+    color: rgb(60, 106, 148) ;
+}
+.btn:active{
+    background-color: rgb(94, 94, 248);
+}
